@@ -1,1 +1,3 @@
-println 'Printing from the lib...'
+def libTest() {
+  println 'Printing from the lib...'
+}
